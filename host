@@ -2,7 +2,7 @@
 
 ~ $ cd username.github.io
 
-~ $ echo "Hello World" > index.html
+~ $ echo "index > index.html
 
 ~ $ git add --all
 
